@@ -1,7 +1,7 @@
 @extends('layouts.public')
 
-@section('title', 'Bluehaven Academy | Learn, Lead, Succeed')
-@section('description', 'Discover Bluehaven Academy, a welcoming primary and secondary school committed to academic excellence, character development and lifelong learning.')
+@section('title', 'New Mercies Academy | Learn, Lead, Succeed')
+@section('description', 'Discover New Mercies Academy, a welcoming primary and secondary school committed to academic excellence, character development and lifelong learning.')
 
 @section('content')
 <style>
@@ -132,7 +132,7 @@
     <section class="bh-hero" aria-labelledby="bh-home-title">
         <div class="bh-shell">
             <div class="bh-hero-content">
-                <span class="bh-eyebrow">Welcome to Bluehaven Academy</span>
+                <span class="bh-eyebrow">Welcome to New Mercies Academy</span>
                 <h1 id="bh-home-title">Building Bright Minds. Shaping Tomorrow's Leaders.</h1>
                 <p>We nurture curious minds, develop confident learners and inspire every student to discover their potential in a supportive and engaging school environment.</p>
                 <div class="bh-hero-actions">
@@ -153,7 +153,7 @@
             <div class="bh-about-content">
                 <span class="bh-eyebrow">Who We Are</span>
                 <h2>A School Where Every Student Can Thrive</h2>
-                <p>Bluehaven Academy is designed to support learners at every stage of their educational journey. Our approach combines academic development, personal responsibility and practical learning experiences.</p>
+                <p>New Mercies Academy is designed to support learners at every stage of their educational journey. Our approach combines academic development, personal responsibility and practical learning experiences.</p>
                 <p>We aim to create an environment where students feel supported to ask questions, explore ideas, develop their talents and work towards meaningful goals.</p>
                 <ul class="bh-check-list">
                     <li><span class="bh-check" aria-hidden="true">✓</span><span>Student-centred teaching and learning.</span></li>
@@ -228,7 +228,7 @@
             <div>
                 <span class="bh-eyebrow">Your Journey Starts Here</span>
                 <h2>Give Your Child a Strong Foundation for the Future</h2>
-                <p>Take the first step towards joining the Bluehaven Academy learning community. Submit an application online and keep the reference number shown after submission for your records.</p>
+                <p>Take the first step towards joining the New Mercies Academy learning community. Submit an application online and keep the reference number shown after submission for your records.</p>
                 <div class="bh-steps">
                     <div class="bh-step"><div class="bh-step-number">1</div><div><strong>Complete the Application</strong><span>Enter the applicant's details and a parent or guardian's contact information.</span></div></div>
                     <div class="bh-step"><div class="bh-step-number">2</div><div><strong>Keep Your Reference</strong><span>Save the application reference displayed after you submit the form.</span></div></div>
@@ -272,7 +272,7 @@
         <div class="bh-shell">
             <div class="bh-section-heading">
                 <span class="bh-eyebrow">We Are Here to Help</span>
-                <h2>Connect With Bluehaven Academy</h2>
+                <h2>Connect With New Mercies Academy</h2>
                 <p>Parents and guardians can use the school's official contact channels to ask questions about classes, admissions and school life.</p>
             </div>
             <div class="bh-contact-panel">
@@ -295,7 +295,7 @@
     {{-- FINAL CALL TO ACTION --}}
     <section class="bh-final-cta">
         <div class="bh-shell">
-            <span class="bh-eyebrow">Bluehaven Academy</span>
+            <span class="bh-eyebrow">New Mercies Academy</span>
             <h2>Learn Today. Lead Tomorrow.</h2>
             <p>Education is a journey of discovery, growth and opportunity. We look forward to helping families learn more about our school.</p>
             <a href="{{ route('admissions.create') }}" class="bh-button">Apply for Admission <span aria-hidden="true">→</span></a>

@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="csrf-token" content="{{ csrf_token() }}">
 
-    <title>@yield('page-title', 'Administration') | Bluehaven Academy</title>
+    <title>@yield('page-title', 'Administration') | New Mercies Academy</title>
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -380,7 +380,7 @@
             </div>
 
             <div class="topbar-right">
-                <span class="topbar-label">Bluehaven Academy</span>
+                <span class="topbar-label">New Mercies Academy</span>
 
                 <form method="POST" action="{{ route('logout') }}">
                     @csrf

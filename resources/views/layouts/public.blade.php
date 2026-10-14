@@ -5,10 +5,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="csrf-token" content="{{ csrf_token() }}">
 
-    <title>@yield('title', 'Bluehaven Academy | Learn, Lead, Succeed')</title>
+    <title>@yield('title', 'New Mercies Academy | Learn, Lead, Succeed')</title>
 
     <meta name="description"
-          content="@yield('description', 'Bluehaven Academy provides a supportive learning environment for primary and secondary school students.')">
+          content="@yield('description', 'New Mercies Academy provides a supportive learning environment for primary and secondary school students.')">
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -354,10 +354,10 @@
 <body>
     <header class="school-header">
         <div class="school-shell school-header-inner">
-            <a href="{{ route('home') }}" class="school-brand" aria-label="Bluehaven Academy homepage">
+            <a href="{{ route('home') }}" class="school-brand" aria-label="New Mercies Academy homepage">
                 <span class="school-brand-mark">B</span>
                 <span>
-                    <span class="school-brand-name">Bluehaven Academy</span>
+                    <span class="school-brand-name">New Mercies Academy</span>
                     <span class="school-brand-subtitle">Learn · Lead · Succeed</span>
                 </span>
             </a>
@@ -425,7 +425,7 @@
                     <a href="{{ route('home') }}" class="school-brand">
                         <span class="school-brand-mark">B</span>
                         <span>
-                            <span class="school-brand-name">Bluehaven Academy</span>
+                            <span class="school-brand-name">New Mercies Academy</span>
                             <span class="school-brand-subtitle">Learn · Lead · Succeed</span>
                         </span>
                     </a>
@@ -464,7 +464,7 @@
             </div>
 
             <div class="school-footer-copy">
-                &copy; {{ date('Y') }} Bluehaven Academy. All rights reserved.
+                &copy; {{ date('Y') }} New Mercies Academy. All rights reserved.
             </div>
         </div>
     </footer>
