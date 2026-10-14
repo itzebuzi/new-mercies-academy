@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 
 namespace Database\Seeders;
 
@@ -9,6 +9,6 @@ class DatabaseSeeder extends Seeder
     public function run(): void
     {
         // School data should be added through dedicated school seeders.
-        // No hotel seeders are called from this file.
+        // School database seeding is configured here.
     }
 }

@@ -62,6 +62,6 @@ class RegisterController extends Controller
 
         return redirect()
             ->route('guest.dashboard')
-            ->with('success', 'Welcome to Luxora. Your guest account has been created.');
+            ->with('success', 'Welcome to New Mercies Academy. Your account has been created.');
     }
 }

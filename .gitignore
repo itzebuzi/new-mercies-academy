@@ -35,3 +35,8 @@ bluehaven-file-inventory.txt
 bluehaven-hotel-reference-scan.txt
 /storage/framework/views/*
 
+
+/app/Http/Controllers/Admin/GuestController.php
+/app/Http/Controllers/Admin/PaymentController.php
+/app/Http/Controllers/Admin/ReportController.php
+
