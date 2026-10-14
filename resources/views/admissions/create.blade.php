@@ -1,6 +1,6 @@
 @extends('layouts.public')
 
-@section('title', 'Apply for Admission | Bluehaven Academy')
+@section('title', 'Apply for Admission | New Mercies Academy')
 
 @section('content')
 <style>
@@ -478,12 +478,12 @@
 
         <header class="admissions-hero">
             <div class="hero-copy">
-                <div class="admissions-eyebrow">Admissions at Bluehaven</div>
+                <div class="admissions-eyebrow">Admissions at New Mercies Academy</div>
 
                 <h1>Every great journey begins with <span style="color:#ffd078;">a first step.</span></h1>
 
                 <p>
-                    Begin your child's journey at Bluehaven Academy.
+                    Begin your child's journey at New Mercies Academy.
                     Tell us a little about your child and family so our
                     admissions team can review the application.
                 </p>
@@ -491,7 +491,7 @@
 
             <aside class="hero-aside">
                 <div class="hero-aside-mark" aria-hidden="true">B</div>
-                <strong>Welcome to Bluehaven Academy</strong>
+                <strong>Welcome to New Mercies Academy</strong>
                 <span>
                     Learn with purpose. Grow with confidence.
                     Build a foundation for lifelong success.
@@ -539,7 +539,7 @@
                             <span class="section-number">01</span>
                             <div>
                                 <h3>Student Information</h3>
-                                <p>Tell us about the student applying to Bluehaven.</p>
+                                <p>Tell us about the student applying to New Mercies Academy.</p>
                             </div>
                         </div>
 

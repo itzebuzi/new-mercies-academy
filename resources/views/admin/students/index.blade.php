@@ -9,7 +9,7 @@
 </style>
 <div class="student-module">
     <div class="page-head">
-        <div><h1>Student Management</h1><p class="muted">Register, find and maintain Bluehaven Academy student records.</p></div>
+        <div><h1>Student Management</h1><p class="muted">Register, find and maintain New Mercies Academy student records.</p></div>
         <a class="btn" href="{{ route('admin.students.create') }}">+ Register Student</a>
     </div>
 

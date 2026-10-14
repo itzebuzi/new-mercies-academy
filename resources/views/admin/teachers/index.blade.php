@@ -34,7 +34,7 @@
     <div class="heading-row">
         <div>
             <h2>Teacher Management</h2>
-            <p class="muted">Register, find and maintain Bluehaven Academy teacher records.</p>
+            <p class="muted">Register, find and maintain New Mercies Academy teacher records.</p>
         </div>
         <a class="btn" href="{{ route('admin.teachers.create') }}">+ Register Teacher</a>
     </div>

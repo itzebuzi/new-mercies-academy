@@ -6,7 +6,7 @@
     <meta name="robots" content="noindex, nofollow">
     <meta name="theme-color" content="#123b78">
 
-    <title>Administrator Login | Bluehaven Academy</title>
+    <title>Administrator Login | New Mercies Academy</title>
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -520,12 +520,12 @@
 
 <body>
 <main class="login-layout">
-    <section class="login-visual" aria-label="Bluehaven Academy">
+    <section class="login-visual" aria-label="New Mercies Academy">
         <div class="visual-top">
             <a href="{{ route('home') }}" class="visual-brand">
                 <span class="brand-mark" aria-hidden="true">B</span>
                 <span>
-                    <span class="brand-name">Bluehaven Academy</span>
+                    <span class="brand-name">New Mercies Academy</span>
                     <span class="brand-tagline">Learn · Lead · Succeed</span>
                 </span>
             </a>
@@ -563,7 +563,7 @@
             <a href="{{ route('home') }}" class="mobile-brand">
                 <span class="brand-mark" aria-hidden="true">B</span>
                 <span>
-                    <span class="brand-name">Bluehaven Academy</span>
+                    <span class="brand-name">New Mercies Academy</span>
                     <span class="brand-tagline">Learn · Lead · Succeed</span>
                 </span>
             </a>
@@ -573,7 +573,7 @@
 
             <p class="login-description">
                 Sign in with your authorized account to access the
-                Bluehaven Academy administration portal.
+                New Mercies Academy administration portal.
             </p>
 
             <p class="form-section-label">Administrator sign-in</p>
@@ -641,7 +641,7 @@
                 </div>
 
                 <button type="submit" class="login-submit">
-                    Sign in to Bluehaven <span aria-hidden="true">→</span>
+                    Sign in to New Mercies Academy <span aria-hidden="true">→</span>
                 </button>
             </form>
 
@@ -655,7 +655,7 @@
             </div>
 
             <p class="login-footer">
-                &copy; {{ date('Y') }} Bluehaven Academy. All rights reserved.
+                &copy; {{ date('Y') }} New Mercies Academy. All rights reserved.
             </p>
         </div>
     </section>

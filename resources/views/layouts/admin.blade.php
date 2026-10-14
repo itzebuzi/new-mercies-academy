@@ -284,7 +284,7 @@
         <a href="{{ route('admin.dashboard') }}" class="admin-brand">
             <div class="brand-mark">B</div>
             <div>
-                <div class="brand-name">BLUEHAVEN</div>
+                <div class="brand-name">New Mercies Academy</div>
                 <div class="brand-subtitle">Academy Administration</div>
             </div>
         </a>

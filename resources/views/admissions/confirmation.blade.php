@@ -1,6 +1,6 @@
 @extends('layouts.public')
 
-@section('title', 'Application Received | Bluehaven Academy')
+@section('title', 'Application Received | New Mercies Academy')
 
 @section('content')
 <section style="padding:80px 0;background:#f5f8fd">
@@ -13,7 +13,7 @@
             </h1>
 
             <p style="color:#68758a;line-height:1.9">
-                Thank you for applying to Bluehaven Academy.
+                Thank you for applying to New Mercies Academy.
                 Your application has been recorded successfully.
             </p>
 

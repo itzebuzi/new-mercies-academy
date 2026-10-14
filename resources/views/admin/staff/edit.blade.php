@@ -6,7 +6,7 @@
 <div class="staff-edit-page">
     <div class="staff-edit-heading">
         <div>
-            <span class="staff-eyebrow">BLUEHAVEN ACADEMY</span>
+            <span class="staff-eyebrow">New Mercies Academy</span>
             <h1>Edit Staff Member</h1>
             <p>Update the personal and employment details for {{ $staff->full_name }}.</p>
         </div>

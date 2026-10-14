@@ -6,7 +6,7 @@
 <div class="staff-page">
     <div class="staff-heading">
         <div>
-            <span class="staff-eyebrow">BLUEHAVEN ACADEMY</span>
+            <span class="staff-eyebrow">New Mercies Academy</span>
             <h1>Staff Management</h1>
             <p>Manage school employees, departments and employment records.</p>
         </div>

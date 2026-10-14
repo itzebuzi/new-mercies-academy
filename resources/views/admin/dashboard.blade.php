@@ -76,7 +76,7 @@
     <div class="dashboard-heading">
         <div>
             <h1>School Dashboard</h1>
-            <p class="dashboard-subtitle">Welcome to Bluehaven Academy administration. Here is the latest admissions overview.</p>
+            <p class="dashboard-subtitle">Welcome to New Mercies Academy administration. Here is the latest admissions overview.</p>
         </div>
         <a href="{{ route('admin.admissions.index') }}" class="dashboard-primary-btn">
             Manage Admissions <span aria-hidden="true">→</span>

@@ -5,7 +5,7 @@
     <div style="display:flex;justify-content:space-between;align-items:center;gap:16px;flex-wrap:wrap;margin-bottom:24px">
         <div>
             <h1 style="font-size:28px;font-weight:800;margin:0">Classes Management</h1>
-            <p style="color:#64748b;margin-top:6px">Create and manage Bluehaven Academy classes.</p>
+            <p style="color:#64748b;margin-top:6px">Create and manage New Mercies Academy classes.</p>
         </div>
         <a href="{{ route('admin.classes.create') }}" style="background:#1d4ed8;color:white;padding:12px 18px;border-radius:9px;text-decoration:none;font-weight:700">+ Add Class</a>
     </div>
